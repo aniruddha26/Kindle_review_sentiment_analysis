@@ -1,0 +1,6 @@
+pandas
+ipykernel
+nltk
+beautifulsoup4
+lxml
+scikit-learn
