@@ -81,29 +81,37 @@ Edit
 
 ## 🚀 Getting Started
 
-### Clone the repository
+### 1. Clone the repository
 
-```bash
+bash
 git clone https://github.com/aniruddha26/Kindle_review_sentiment_analysis.git
 cd Kindle_review_sentiment_analysis
-2. Install dependencies
+
+### 2. Install dependencies
 bash
 Copy
 Edit
 pip install -r requirements.txt
-3. Run the code
+
+### 3. Run the code
 Explore the notebooks in the folder to see step-by-step implementation.
+
+---
 
 ## 📈 Results
 Accuracy and F1 Score are used to compare BoW, TF-IDF, and Word2Vec methods.
 
 Early experiments show TF-IDF and SVM/Logistic Regression perform better on this dataset.
 
+---
+
 ## 📌 Acknowledgements
 Dataset: Amazon product data by Julian McAuley, UCSD
 📄 http://jmcauley.ucsd.edu/data/amazon/
 
 License to the data files belongs to the original authors.
+
+---
 
 ## 👨‍💻 Author
 Aniruddha Alkari
